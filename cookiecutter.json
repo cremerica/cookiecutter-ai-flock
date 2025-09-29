@@ -7,6 +7,7 @@
     "author_email": "youremail@example.com",
     "description": "A short description of the project.",
     "independent_reviewer": "github_username_of_independent_reviewer",
-    "site_name": "{{ cookiecutter.project_name }} Docs"
+    "site_name": "{{ cookiecutter.project_name }} Docs",
+    "version": "0.1"
 }
 
